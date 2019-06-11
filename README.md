@@ -8,8 +8,6 @@ Jun 11 2019
 - The Caesar cipher is a type of substitution cipher where letters are replaced with other letters from a shifted position in an alphabet set.
   - For example, the letter `'a'`, shifted by two (2) positions, would result in the letter `'c'`.
 
----
-
 ## `cipherMessage(message, key, mode)`
 
 - To encrypt and decrypt messages, use the `cipherMessage(message, key, mode)` function.
@@ -46,8 +44,6 @@ cipherMessage('3_~0BD%;D-!0.,%@.*S', 37, 'd')
 - Remember to enter `'d'` as the mode parameter so that the `cipherMessage()` function is set properly to decrypt messages.
 - When you decrypt the encrypted message string `'3_~0BD%;D-!0.,%@.*S'`, the `cipherMessage()` function will return the decrypted string message: `'Today is beautiful!'`.
 
----
-
 ## Challenges
 
 ### Decryption With Key
@@ -64,8 +60,6 @@ cipherMessage('3_~0BD%;D-!0.,%@.*S', 37, 'd')
 
 - Explore the handy `magicOutput(message)` function!
 
----
-
 ## Future Development
 
 - [ ] TODO: Dictionary lookup for `magicOutput()` function. Return corresponding keys in descending order of relevance.
@@ -74,8 +68,6 @@ cipherMessage('3_~0BD%;D-!0.,%@.*S', 37, 'd')
 - [ ] TODO: Links conversion `/`.
 - [ ] TODO: Error handling for edge cases.
 - [ ] TODO: Front-end GUI.
-
----
 
 ## Resources
 
