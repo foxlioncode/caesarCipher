@@ -1,7 +1,14 @@
 # ================================================================
 # caesarCipher.py
+# <https://inventwithpython.com/cracking/chapter5.html>
+
 # TODO: Compare output to an English dictionary and find which keyTest is the most likely message.
+# TODO: - Dictionary lookup for `magicOutput()` function. Return corresponding keys in descending order of relevance.
+# TODO: - <https://pypi.org/project/PyDictionary/>
+# TODO: - <https://pypi.org/project/pyenchant/#description>
 # TODO: Links conversion. Forward-slash '/' correct conversion
+# TODO: Error handling for edge cases.
+# TODO: Front-end GUI.
 
 # ================================================================
 # Initial variables
