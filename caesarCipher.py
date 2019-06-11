@@ -11,9 +11,10 @@ import os
 symbolString = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz `1234567890-=~!@#$%^&*()_+?:;,.<>\/\\'
 # lengthOfSymbolString = len(symbolString) # = 86
 
-personalMessage = 'Hello my friends!'
-key = 70
-mode = 'e'
+# Test Data
+testMessage = 'Hello my friends!'
+testKey = 70
+testMode = 'e'
 
 # ================================================================
 # cipherMessage Encryption/Decryption Function
