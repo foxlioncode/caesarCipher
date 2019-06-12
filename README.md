@@ -65,6 +65,7 @@ cipherMessage('3_~0BD%;D-!0.,%@.*S', 37, 'd')
 - [ ] TODO: Dictionary lookup for `magicOutput()` function. Return corresponding keys in descending order of relevance.
   - [ ] <https://pypi.org/project/PyDictionary/>
   - [ ] <https://pypi.org/project/pyenchant/#description>
+  - [ ] <https://pypi.org/project/english-words/#files>
 - [ ] TODO: Links conversion `/`.
 - [ ] TODO: Error handling for edge cases.
 - [ ] TODO: Front-end GUI.

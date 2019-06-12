@@ -6,6 +6,7 @@
 # TODO: - Dictionary lookup for `magicOutput()` function. Return corresponding keys in descending order of relevance.
 # TODO: - <https://pypi.org/project/PyDictionary/>
 # TODO: - <https://pypi.org/project/pyenchant/#description>
+# TODO: - <https://pypi.org/project/english-words/#files
 # TODO: Links conversion. Forward-slash '/' correct conversion
 # TODO: Error handling for edge cases.
 # TODO: Front-end GUI.
